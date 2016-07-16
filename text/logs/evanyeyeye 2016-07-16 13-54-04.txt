@@ -1,0 +1,68 @@
+1:  
+Health:  1000.0
+Energy:  1000
+
+2:  
+Health:  1000.0
+Energy:  1000
+
+3:  
+Health:  1000.0
+Energy:  1000
+
+4:  
+Health:  958.0
+Energy:  1000
+Player has collided with:  the monsters.
+
+5:  
+Health:  566.6000000000001
+Energy:  1000
+Player has collided with:  the monsters.
+
+6:  
+Health:  506.99999999999955
+Energy:  1000
+
+7:  
+Health:  520.8000000000012
+Energy:  642
+
+8:  
+Health:  534.0000000000042
+Energy:  468
+
+9:  
+Health:  547.0000000000072
+Energy:  533
+
+10:  
+Health:  561.2000000000104
+Energy:  428
+Player has collided with:  a tree.
+
+11:  
+Health:  574.4000000000134
+Energy:  194
+
+12:  
+Health:  587.6000000000164
+Energy:  260
+
+13:  
+Health:  601.0000000000194
+Energy:  167
+
+14:  
+Health:  613.2000000000222
+Energy:  228
+
+15:  
+Health:  626.2000000000252
+Energy:  133
+
+16:  
+Health:  639.2000000000281
+Energy:  198
+Player has collided with:  a tree.
+

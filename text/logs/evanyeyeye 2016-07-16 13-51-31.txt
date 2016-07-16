@@ -1,0 +1,165 @@
+1:  
+Health:  1000.0
+Energy:  1000
+
+2:  
+Health:  1000.0
+Energy:  1000
+
+3:  
+Health:  1000.0
+Energy:  1000
+
+4:  
+Health:  1000.0
+Energy:  1000
+
+5:  
+Health:  1000.0
+Energy:  1000
+
+6:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+7:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+8:  
+Health:  1000.0
+Energy:  1000
+
+9:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+10:  
+Health:  1000.0
+Energy:  1000
+
+11:  
+Health:  1000.0
+Energy:  1000
+
+12:  
+Health:  1000.0
+Energy:  1000
+
+13:  
+Health:  1000.0
+Energy:  1000
+
+14:  
+Health:  1000.0
+Energy:  1000
+
+15:  
+Health:  1000.0
+Energy:  1000
+
+16:  
+Health:  1000.0
+Energy:  1000
+
+17:  
+Health:  1000.0
+Energy:  1000
+
+18:  
+Health:  1000.0
+Energy:  1000
+
+19:  
+Health:  1000.0
+Energy:  839
+
+20:  
+Health:  1000.0
+Energy:  901
+
+21:  
+Health:  1000.0
+Energy:  964
+
+22:  
+Health:  1000.0
+Energy:  1000
+
+23:  
+Health:  1000.0
+Energy:  1000
+
+24:  
+Health:  1000.0
+Energy:  1000
+
+25:  
+Health:  1000.0
+Energy:  1000
+Player has collided with:  a tree.
+
+26:  
+Health:  1000.0
+Energy:  1000
+
+27:  
+Health:  1000.0
+Energy:  322
+Player has collided with:  a tree.
+
+28:  
+Health:  1000.0
+Energy:  80
+Player has collided with:  a tree.
+
+29:  
+Health:  1000.0
+Energy:  146
+Player has collided with:  a tree.
+
+30:  
+Health:  1000.0
+Energy:  53
+Player has collided with:  a tree.
+
+31:  
+Health:  1000.0
+Energy:  75
+Player has collided with:  a tree.
+
+32:  
+Health:  1000.0
+Energy:  142
+Player has collided with:  a tree.
+
+33:  
+Health:  1000.0
+Energy:  213
+Player has collided with:  a tree.
+
+34:  
+Health:  1000.0
+Energy:  276
+Player has collided with:  a tree.
+
+35:  
+Health:  810.2000000000014
+Energy:  38
+Player has collided with:  a tree.
+
+36:  
+Health:  478.0000000000023
+Energy:  105
+Player has collided with:  the monsters.
+Player has collided with:  a tree.
+
+37:  
+Health:  37.000000000002274
+Energy:  168
+Player has collided with:  the monsters.
+Player has collided with:  a tree.
+
