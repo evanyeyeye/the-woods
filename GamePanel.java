@@ -120,7 +120,7 @@ public class GamePanel extends JPanel
       if (cheat.nextLine().equals("kimcity")) {
       	 hSub = 0;
       }
-      if (cheat.nextLine().equals("evanwhatagod")) {
+      if (cheat.nextLine().equals("evanyeyeye")) {
          eSub = 0;   
       }
       

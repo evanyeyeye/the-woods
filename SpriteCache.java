@@ -15,22 +15,22 @@ public class SpriteCache
 {
 	private static SpriteCache single = new SpriteCache();
 	public static SpriteCache get() 
-   {
+    {
 		return single;
 	}
 	private HashMap sprites = new HashMap();
 	public Sprite getSprite(String ref) 
-   {
+    {
 		if (sprites.get(ref) != null) {
 			return (Sprite) sprites.get(ref);
 		}
 		BufferedImage sourceImage = null;
-      try {
-         sourceImage = ImageIO.read(new File(ref));
-      }
-      catch (IOException e) {
-         e.printStackTrace();
-      }
+        try {
+           sourceImage = ImageIO.read(new File(ref));
+        }
+        catch (IOException e) {
+           e.printStackTrace();
+        }
 
 		GraphicsConfiguration gc = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().getDefaultConfiguration();
 		Image image = gc.createCompatibleImage(sourceImage.getWidth(),sourceImage.getHeight(),Transparency.BITMASK);

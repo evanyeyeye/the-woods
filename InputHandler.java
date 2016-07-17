@@ -34,7 +34,7 @@ public class InputHandler implements KeyListener
       toggleKey(key.getKeyCode(), false);
    }
    
-   public void keyTyped(KeyEvent key) {} //here to fulfill interface
+   public void keyTyped(KeyEvent key) {} 
    
    public void toggleKey(int keyCode, boolean isPressed) 
    {
