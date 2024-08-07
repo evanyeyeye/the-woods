@@ -9,10 +9,10 @@ As for now, download files, compile Game.java, and execute.
 ## What are the features?
 Difficulty progession, animation of entities, and game logging. 
 
-![alt tag] (http://i.imgur.com/1qDPaQA.png)
-![alt tag] (http://i.imgur.com/uOrgKge.png)
-![alt tag] (http://i.imgur.com/RdgEcq7.png)
-![alt tag] (http://i.imgur.com/7it6PSJ.png)
+![alt tag](http://i.imgur.com/1qDPaQA.png)
+![alt tag](http://i.imgur.com/uOrgKge.png)
+![alt tag](http://i.imgur.com/RdgEcq7.png)
+![alt tag](http://i.imgur.com/7it6PSJ.png)
 
 ## Credits
 Sprites drawn by Jenny Tan and Sebastian Lee 
